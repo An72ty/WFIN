@@ -1,0 +1,17 @@
+C:\Users\1\OneDrive\Рабочий стол\wfin\bin\Debug\net8.0\wfin.exe
+C:\Users\1\OneDrive\Рабочий стол\wfin\bin\Debug\net8.0\wfin.deps.json
+C:\Users\1\OneDrive\Рабочий стол\wfin\bin\Debug\net8.0\wfin.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\wfin\bin\Debug\net8.0\wfin.dll
+C:\Users\1\OneDrive\Рабочий стол\wfin\bin\Debug\net8.0\wfin.pdb
+C:\Users\1\OneDrive\Рабочий стол\wfin\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.csproj.Up2Date
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.dll
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\refint\wfin.dll
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.pdb
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\wfin.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\wfin\obj\Debug\net8.0\ref\wfin.dll
