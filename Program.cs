@@ -4,13 +4,16 @@ using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
+using DotNetEnv;
 
 namespace WFIN;
 
 class Program {
     public static async Task Main() {
+        Env.Load("token.env");
+        string token = Environment.GetEnvironmentVariable("BOT_TOKEN")!;
         var cts = new CancellationTokenSource();
-        var bot = new TelegramBotClient("7376140194:AAHwtdYfVzLOHatuKsmRSOK4_HJkZEPIv_A", cancellationToken: cts.Token);
+        var bot = new TelegramBotClient(token, cancellationToken: cts.Token);
         var me = await bot.GetMe();
 
         Handlers handlers = new Handlers(bot);

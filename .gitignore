@@ -1,0 +1,6 @@
+bin/
+obj/
+token.env
+index.html
+wfin.csproj
+wfin.sln
